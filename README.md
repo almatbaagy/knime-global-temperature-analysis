@@ -31,7 +31,7 @@ The task involved using two datasets (city and global temperature data) to:
 ## 📷 Sample Visuals
 
 ### Histogram: Global Yearly Temps
-![Histogram](./Task5_Image.svg)
+![Histogram](./Task5 Histogram.svg)
 
 ### Line Chart: Alexandria vs Global Temp
-![Alexandria Comparison](./Task6_Image.svg)
+![Alexandria Comparison](./Task6 LinePlot.svg)
